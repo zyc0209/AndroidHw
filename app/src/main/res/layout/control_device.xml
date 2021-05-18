@@ -121,7 +121,7 @@
             android:textSize="18sp" />
         <Space
             android:layout_width="5dp"
-            android:layout_height="420dp" />
+            android:layout_height="350dp" />
     </LinearLayout>
     <Button
         android:id="@+id/btn_return"
